@@ -12,7 +12,7 @@
 
 ## Chart
 
-![alt text](chart.png)
+![alt text](chart.PNG)
 
 <br>
 
